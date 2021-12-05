@@ -1,0 +1,88 @@
+[
+  {
+    "description": "Franz looked for opportunities to skip school to do what?",
+    "choices": ["work on mills", "go fishing", "water the plants", "collect birds eggs"],
+    "rightChoice": "collect birds eggs"
+  },
+  {
+    "description": "What was Franz banking on to enter the class as he was late?",
+    "choices": [
+      "M.Hamel’s teaching on the blackboard",
+      "commotion in the class",
+      "Hauser helping him sneak in",
+      "to quietly walk in when everyone was preoccupied with participles"
+    ],
+    "rightChoice": "commotion in the class"
+  },
+  {
+    "description": "M. Hamel is introduced as a ruler-wielding teacher. This demonstrates that:",
+    "choices": ["he is concerned", "he is adamant", "he is unfeeling", "he is a hard taskmaster"],
+    "rightChoice": "he is a hard taskmaster"
+  },
+  {
+    "description": "What does M. Hamel’s motionless posture reflect?",
+    "choices": ["the school is dismissed", "sense of finality", "changing order of life", "feeling of nostalgia"],
+    "rightChoice": "sense of finality"
+  },
+  {
+    "description": "Who sat on the back bench on the last lesson?",
+    "choices": ["Franz", "Prussians", "the village people", "The new teacher"],
+    "rightChoice": "the village people"
+  },
+  {
+    "description": "What was M. Hamel going to question Franz about?",
+    "choices": ["participles", "adjectives", "old primer", "Ba be bi bo bu"],
+    "rightChoice": "participles"
+  },
+  {
+    "description": "For the last two years, where did all the bad news come from?",
+    "choices": ["the Bulletin Board", "Town Hall", "school", " M. Hamel’s House"],
+    "rightChoice": "the Bulletin Board"
+  },
+  {
+    "description": "Don’t go so fast, you will get to your school in plenty of time means___",
+    "choices": ["getting late", "very early", "not early", "early enough"],
+    "rightChoice": "early enough"
+  },
+  {
+    "description": "What did Mr. Hamel bring for his class on his last day in the school?",
+    "choices": ["new pens", "new notebooks", "sweets", "story books"],
+    "rightChoice": "new notebooks"
+  },
+  {
+    "description": "Why did the villagers come to meet M. Hamel in the school?",
+    "choices": ["to complain", "to say goodbye", "to gossip", "to show gratitude"],
+    "rightChoice": "to show gratitude"
+  },
+
+  {
+    "description": "The story ‘The Last Lesson’ highlights which human tendency?",
+    "choices": ["Male Chauvinism", "Procrastination", "Courage", "Cowardice"],
+    "rightChoice": "Procrastination"
+  },
+  {
+    "description": "Who is the author of The Last Lesson?",
+    "choices": ["Jane Austen", "Rabindra Nath Tagore", "None", "Alphonse Daudet"],
+    "rightChoice": "Alphonse Daudet"
+  },
+  {
+    "description": "Health conditions in Champaran",
+    "choices": ["miserable", "tolerable", "under control", "fairly good"],
+    "rightChoice": "miserable"
+  },
+  {
+    "description": "Who volunteered to work in Champaran?",
+    "choices": [
+      "two disciples of Gandhi and their wives",
+      "Kasturba and the eldest son of Gandhi",
+      "Mahadev Desai and his wife",
+      "Narhari Prasad and his wife"
+    ],
+    "rightChoice": "two disciples of Gandhi and their wives"
+  },
+  {
+    "description": "The representative of the planters offered to refund—– percent to the peasants",
+    "choices": ["5", "10", "20", "25"],
+    "rightChoice": "25"
+  }
+]
